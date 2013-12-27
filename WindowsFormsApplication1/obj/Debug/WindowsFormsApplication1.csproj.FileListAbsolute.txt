@@ -51,3 +51,5 @@ D:\Visual Studio 2008 Projects\YR02_WriteID\WindowsFormsApplication1\WindowsForm
 D:\Visual Studio 2008 Projects\YR02_WriteID\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormToolMenuYFDW.resources
 D:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Github\yr_farm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Github\yr_farm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
